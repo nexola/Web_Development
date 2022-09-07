@@ -1,2 +1,3 @@
-# Web_Development
-Projects using HTML/CSS/Javascript
+# First_HTML_Project
+
+Project using pure HTML.
